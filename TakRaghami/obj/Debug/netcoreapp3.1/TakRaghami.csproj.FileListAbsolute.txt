@@ -1,0 +1,14 @@
+E:\Coding\c#\TakRaghami\TakRaghami\bin\Debug\netcoreapp3.1\TakRaghami.exe
+E:\Coding\c#\TakRaghami\TakRaghami\bin\Debug\netcoreapp3.1\TakRaghami.deps.json
+E:\Coding\c#\TakRaghami\TakRaghami\bin\Debug\netcoreapp3.1\TakRaghami.runtimeconfig.json
+E:\Coding\c#\TakRaghami\TakRaghami\bin\Debug\netcoreapp3.1\TakRaghami.runtimeconfig.dev.json
+E:\Coding\c#\TakRaghami\TakRaghami\bin\Debug\netcoreapp3.1\TakRaghami.dll
+E:\Coding\c#\TakRaghami\TakRaghami\bin\Debug\netcoreapp3.1\TakRaghami.pdb
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.csproj.AssemblyReference.cache
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.AssemblyInfoInputs.cache
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.AssemblyInfo.cs
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.csproj.CoreCompileInputs.cache
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.dll
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.pdb
+E:\Coding\c#\TakRaghami\TakRaghami\obj\Debug\netcoreapp3.1\TakRaghami.genruntimeconfig.cache
